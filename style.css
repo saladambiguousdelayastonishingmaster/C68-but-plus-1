@@ -1,0 +1,10 @@
+.videos {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+#marqueeStyle {
+    width: 100%;
+    direction: ltr;
+    color: #29A410;
+}
